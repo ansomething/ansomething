@@ -1,36 +1,37 @@
 # ✨ Andressa Vieira Cavalcante
-Olá, tenho 23 anos, nasci e continuo morando no interior do Paraná, e comecei a estudar Análise e Desenvolvimento de Sistemas na UNINTER, mas também estou no caminho de programadora autodidata.
+Hello, I'm 23 years old, born and raised in the countryside of the State of Paraná in Brazil, just started college for Systems Analysis and Development, but I'm also in the path of self-taught programmer.
 
-Aqui estão algumas coisas sobre mim:
+Here are some stuff about me:
 
-- 👀 Alguns de meus interesses são...
-    - Technologia
-    - Livros de ficção
-    - Jogos
-    - Desafios
-    - Solucionar problemas
-    - Aprender coisas novas
+- 👀 Some of my interests are...
+    - Technology
+    - Fiction books
+    - Games
+    - Challenges
+    - Solving problems
+    - Learn new things
 <br>
 
-- 🌱 Atualmente estou aprendendo...
+- 🌱 These days I've been learning...
     - Python
     - HTML5
     - CSS3
     - JavaScript
+    - PHP
 ---
 
-### 📊 Estatísticas do meu GitHub
+### 📊 My GitHub Statistics
 <br>
 <p>
     <img
         allign="left"
         height="160"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=ansomething&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br&hide_title=true"
+        src="https://github-readme-stats.vercel.app/api?username=ansomething&show_icons=true&theme=omni&include_all_commits=true&locale=en&hide_title=true"
     />
     <img
         allign="left"
         height="160"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansomething&theme=omni&locale=pt-br&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansomething&theme=omni&locale=en&layout=compact"
     />
 </p>
