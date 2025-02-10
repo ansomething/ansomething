@@ -1,5 +1,5 @@
-# ✨ Andressa Vieira
-Hello, I'm 23 years old, born and raised in the countryside of the State of Paraná in Brazil, just started college for Systems Analysis and Development, but I'm also in the path of self-taught programmer.
+# ✨ Welcome
+Hello, I'm Andressa! I'm 23 years old, born and raised in the countryside of the State of Paraná in Brazil, just started college for Systems Analysis and Development, but I'm also in the path of self-taught programming.
 
 Here are some stuff about me:
 
