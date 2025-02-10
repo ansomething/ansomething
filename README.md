@@ -1,4 +1,4 @@
-# ✨ Andressa Vieira Cavalcante
+# ✨ Andressa Vieira
 Hello, I'm 23 years old, born and raised in the countryside of the State of Paraná in Brazil, just started college for Systems Analysis and Development, but I'm also in the path of self-taught programmer.
 
 Here are some stuff about me:
