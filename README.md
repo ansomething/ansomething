@@ -13,11 +13,7 @@ Here are some stuff about me:
 <br>
 
 - 🌱 These days I've been learning...
-    - Python
-    - HTML5
-    - CSS3
-    - JavaScript
-    - PHP
+    - Frontend development
 ---
 
 ### 📊 My Stats
