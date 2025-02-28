@@ -16,9 +16,9 @@ Meu portfólio: <a href="#" title="Portfolio">[em construção]</a>
 
 <img
     align="left"
-    min-width="500px"
-    max-width="500px"
-    width="500px"
+    min-width="480px"
+    max-width="480px"
+    width="480px"
     src="https://github-readme-stats-eta-lime-93.vercel.app/api?username=ansomething&show_icons=true&bg_color=191622&text_color=BBA5FF&icon_color=FF79C6&title_color=FFF&include_all_commits=true&locale=en&hide_title=false"
 />
 
