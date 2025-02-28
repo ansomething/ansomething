@@ -1,33 +1,31 @@
-# ✨ Welcome
-Hello, I'm Andressa! I'm 23 years old, born and raised in the countryside of the State of Paraná in Brazil, just started college for Systems Analysis and Development, but I'm also in the path of self-taught programming.
+# Olá, seja bem-vindo!
 
-Here are some stuff about me:
+<img src="https://img.shields.io/static/v1?label=Overview&message=ansomething&color=BBA5FF&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-- 👀 Some of my interests are...
-    - Technology
-    - Fiction books
-    - Games
-    - Challenges
-    - Solve problems
-    - Learn new things
-<br>
-
-- 🌱 These days I've been learning...
-    - Frontend development
----
-
-### 📊 My Stats
-<br>
-<p>
-    <img
-        allign="left"
-        height="160"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats-eta-lime-93.vercel.app/api?username=ansomething&show_icons=true&theme=omni&include_all_commits=true&locale=en&hide_title=true"
-    />
-    <img
-        allign="left"
-        height="160"
-        src="https://github-readme-stats-eta-lime-93.vercel.app/api/top-langs/?username=ansomething&theme=omni&locale=en&layout=compact"
-    />
+<p align="left">
+Meu nome é Andressa e sou estudante de ADS na UNINTER. Atualmente estou aprendendo um pouco de tudo sobre tecnologias e conceitos.
 </p>
+
+<p align="left">
+Meu portfólio: <a href="#" title="Portfolio">[em construção]</a>
+</p>
+
+<br>
+
+<h2>📊 Stats</h2>
+
+<img
+    align="left"
+    min-width="500px"
+    max-width="500px"
+    width="500px"
+    src="https://github-readme-stats-eta-lime-93.vercel.app/api?username=ansomething&show_icons=true&bg_color=191622&text_color=BBA5FF&icon_color=FF79C6&title_color=FFF&include_all_commits=true&locale=en&hide_title=false"
+/>
+
+<img
+    align="right"
+    min-width="340px"
+    max-width="340px"
+    width="340px"
+    src="https://github-readme-stats-eta-lime-93.vercel.app/api/top-langs/?username=ansomething&bg_color=191622&text_color=FFF&title_color=BBA5FF&locale=en&layout=compact"
+/>
