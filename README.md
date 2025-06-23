@@ -7,7 +7,7 @@ Meu nome é Andressa e sou estudante de ADS na UNINTER. Atualmente estou aprende
 </p>
 
 <p>
-Meu portfólio: <a href="https://ansomething.github.io" title="Portfolio" target="_blank">[ansomething.github.io]</a>
+Meu portfólio: <a href="https://ansomething.github.io" title="Portfolio">[ansomething.github.io]</a>
 </p>
 
 <br>
