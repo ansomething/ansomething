@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=ansomething&color=BBA5FF&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>
-Meu nome é Andressa e sou estudante de ADS na UNINTER. Atualmente estou aprendendo Python juntamente com os frameworks Flask e FastAPI.
+Meu nome é Andressa e sou estudante de ADS na UNINTER.
 </p>
 
 <p>
